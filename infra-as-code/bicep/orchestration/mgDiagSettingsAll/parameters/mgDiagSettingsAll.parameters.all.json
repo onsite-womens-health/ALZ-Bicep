@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "parTopLevelManagementGroupPrefix": {
-      "value": "alz"
+      "value": "owh"
     },
     "parTopLevelManagementGroupSuffix": {
       "value": ""
@@ -18,7 +18,7 @@
       "value": false
     },
     "parLogAnalyticsWorkspaceResourceId": {
-      "value": "/subscriptions/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/resourcegroups/alz-logging/providers/microsoft.operationalinsights/workspaces/alz-log-analytics"
+      "value": "/subscriptions/7866ad9e-af18-4b8a-9e8f-64bb5ef92805/resourcegroups/rg-owh-logging-001/providers/microsoft.operationalinsights/workspaces/owh-log-analytics"
     },
     "parDiagnosticSettingsName": {
       "value": "toLa"
