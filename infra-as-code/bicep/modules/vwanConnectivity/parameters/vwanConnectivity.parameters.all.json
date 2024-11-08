@@ -6,31 +6,31 @@
       "value": "eastus"
     },
     "parCompanyPrefix": {
-      "value": "alz"
+      "value": "owh"
     },
     "parVirtualHubEnabled": {
       "value": true
     },
     "parVirtualWanName": {
-      "value": "alz-vwan"
+      "value": "owh-vwan"
     },
     "parVirtualWanHubName": {
-      "value": "alz-vhub"
+      "value": "owh-vhub"
     },
     "parVirtualWanHubDefaultRouteName": {
       "value": "default-to-azfw"
     },
     "parVpnGatewayName": {
-      "value": "alz-vpngw"
+      "value": "owh-vpngw"
     },
     "parExpressRouteGatewayName": {
-      "value": "alz-ergw"
+      "value": "owh-ergw"
     },
     "parAzFirewallName": {
-      "value": "alz-fw"
+      "value": "owh-fw"
     },
     "parAzFirewallPoliciesName": {
-      "value": "alz-azfwpolicy"
+      "value": "owh-azfwpolicy"
     },
     "parVirtualWanHubs": {
       "value": [
@@ -61,7 +61,7 @@
       "value": true
     },
     "parDdosPlanName": {
-      "value": "alz-ddos-plan"
+      "value": "owh-ddos-plan"
     },
     "parPrivateDnsZonesEnabled": {
       "value": true
